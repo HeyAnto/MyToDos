@@ -51,6 +51,3 @@ I'm preparing to enter a formal web development training program in early 2025, 
 
 ## Contributing
 If you would like to contribute to this project, please feel free to fork the repository and submit a pull request. Any feedback or suggestions are also welcome!
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](https://fr.wikipedia.org/wiki/Licence_MIT) file for details.
