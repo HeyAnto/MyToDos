@@ -10,7 +10,8 @@
 * **Task Management:** Mark tasks as complete, and delete them individually or all at once.
 
 * **Filters:** Filter tasks by their completion status (complete/incomplete).
-* Responsive Design: Optimized for various screen sizes with smooth user interactions.
+
+* **Responsive Design:** Optimized for various screen sizes with smooth user interactions.
 
 * **Local Storage:** Automatically saves your tasks, so they remain even after refreshing the page.
 
