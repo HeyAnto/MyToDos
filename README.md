@@ -31,7 +31,9 @@ cd MyToDos-App
 
 ## Technologies Used
 * **HTML5:** Structure of the web pages.
+
 * **CSS3:** Styling, animations, and responsive design.
+
 * **JavaScript:** Interactivity and task management logic.
 
 ## Learning Objectives
