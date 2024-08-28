@@ -18,6 +18,8 @@
 ## Demo
 Check out the live demo: [MyToDos Live](https://heyanto.github.io/MyToDos-App/)
 
+![Screenshot](Assets/readme-screenshot2.png)
+
 ## Installation
 1. Clone the repository:
 ```bash
