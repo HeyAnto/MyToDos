@@ -21,11 +21,11 @@ Check out the live demo: [MyToDos Live](https://heyanto.github.io/MyToDos-App/)
 ## Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/HeyAnto/MyToDos.git
+git clone https://github.com/HeyAnto/MyToDos-App.git
 ```
 2. Navigate to the project directory:
 ```bash
-cd MyToDos
+cd MyToDos-App
 ```
 3. Open "index.html" in your favorite web browser.
 
