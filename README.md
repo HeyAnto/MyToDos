@@ -1,5 +1,5 @@
 # MyToDos
-![alt text](Assets/readme-screenshot.png)
+![Screenshot](Assets/readme-screenshot.png)
 
 ## Overview
 **MyToDos** is a simple and user-friendly to-do list application built with HTML, CSS, and JavaScript. The goal of this project is to provide a practical and interactive way to manage tasks, while also serving as a learning project for mastering web development fundamentals.
