@@ -231,11 +231,11 @@ footer {
 }
 
 .filter:hover {
-    background: #FFBC00;
+    background: #9e8236;
 }
 
 .options button.active {
-    background-color: #FFBC00;
+    background-color: #daa000;
 }
 
 .info {
