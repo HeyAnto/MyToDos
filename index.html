@@ -1,48 +1,65 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>MyToDos</title>
-    <link rel="icon" href="/Assets/Icon-mytodos.png">
-    <link rel="stylesheet" href="style.css">
-</head>
-<body>
+    <link rel="icon" href="/Assets/Icon-mytodos.png" />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
     <section class="container">
-        <header>
-            <img src="Assets/Icons/Logo.svg" alt="Logo">
-            <h1>MyToDos</h1>
-        </header>
+      <header>
+        <img src="Assets/Icons/Logo.svg" alt="Logo" />
+        <h1>MyToDos</h1>
+      </header>
 
-        <section class="task-container">
-            <div class="task-input">
-                <input type="text" id="task-input" placeholder="Add your task">
-                <button id="add-task" disabled>Add</button>
-            </div>
+      <section class="task-container">
+        <div class="task-input">
+          <input type="text" id="task-input" placeholder="Add your task" />
+          <button id="add-task" disabled>Add</button>
+        </div>
 
-            <div class="options">
-                <button id="delete-all">Delete All</button>
-                <button id="filter-complete" class="filter">Complete</button>
-                <button id="filter-incomplete" class="filter">Incomplete</button>
-            </div>
+        <div class="options">
+          <button id="delete-all">Delete All</button>
+          <button id="filter-complete" class="filter">Complete</button>
+          <button id="filter-incomplete" class="filter">Incomplete</button>
+        </div>
 
-            <div class="info">
-                <p id="task-count">You have 0 task(s) to complete</p>
-            </div>
+        <div class="info">
+          <p id="task-count">You have 0 task(s) to complete</p>
+        </div>
 
-            <div id="task-list"></div>
-        </section>
+        <div id="task-list"></div>
+      </section>
 
-        <footer>
-            <div class="footer-social">
-                <a class="social-icon" href="https://www.instagram.com/antoooo.sio/" target="_blank"><img src="Assets/Icons/Socials/instagram.svg" alt="Instagram"/></a>
-                <a class="social-icon" href="https://www.linkedin.com/in/antoooo/" target="_blank"><img src="Assets/Icons/Socials/linkedin.svg" alt="LinkedIn"/></a>
-                <a class="social-icon" href="https://twitter.com/antoooo_sio" target="_blank"><img src="Assets/Icons/Socials/X.svg" alt="X"/></a>
-                <a class="social-icon" href="https://bento.me/antoooo" target="_blank"><img src="Assets/Icons/Socials/bento.svg" alt="Bento"/></a>
-            </div>
-            <p class="p-2">By Antonin SIOLY</p>
-        </footer>
+      <footer>
+        <div class="footer-social">
+          <a
+            class="social-icon"
+            href="https://www.instagram.com/antoooo.sio/"
+            target="_blank"
+            ><img src="Assets/Icons/Socials/instagram.svg" alt="Instagram"
+          /></a>
+          <a
+            class="social-icon"
+            href="https://www.linkedin.com/in/antoooo/"
+            target="_blank"
+            ><img src="Assets/Icons/Socials/linkedin.svg" alt="LinkedIn"
+          /></a>
+          <a
+            class="social-icon"
+            href="https://twitter.com/antoooo_sio"
+            target="_blank"
+            ><img src="Assets/Icons/Socials/X.svg" alt="X"
+          /></a>
+          <a class="social-icon" href="https://bento.me/antoooo" target="_blank"
+            ><img src="Assets/Icons/Socials/bento.svg" alt="Bento"
+          /></a>
+        </div>
+        <p class="p-2">By Antonin SIOLY</p>
+      </footer>
     </section>
     <script src="script.js"></script>
-</body>
+  </body>
 </html>
