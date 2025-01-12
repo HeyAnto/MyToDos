@@ -51,8 +51,5 @@ This project was created as part of my journey to become a web developer. By bui
 
 I'm preparing to enter a formal web development training program in early 2025, and this project is a key step in my preparation.
 
-## Future Improvements
-[Lumo Project](https://github.com/HeyAnto/Lumo)
-
 ## Contributing
 If you would like to contribute to this project, please feel free to fork the repository and submit a pull request. Any feedback or suggestions are also welcome!
